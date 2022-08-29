@@ -5,5 +5,5 @@ password: manifest
 
 Employee login
 username: john
-password: menco
+password: jimo
 STUDENT ID 10847265
